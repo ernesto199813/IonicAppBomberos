@@ -1,0 +1,14 @@
+{
+    "type": "ionic",
+    "request": "launch",
+    "platform": "android",
+    "device": "device",
+    "args": [
+      "--device-id",
+      "emulator-5554"
+    ],
+    "configurations": [
+        
+
+    ]
+  }
